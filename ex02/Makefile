@@ -2,7 +2,7 @@ NAME = array
 
 CC = c++
 
-SRC = main.cpp array.cpp
+SRC = main.cpp
 
 OBJ = $(SRC:.cpp=.o)
 
